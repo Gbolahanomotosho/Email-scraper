@@ -1,0 +1,8 @@
+requests
+re
+random
+threading
+urlparse
+deque 
+BeautifulSoup
+tqdm
