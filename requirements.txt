@@ -1,0 +1,6 @@
+requests
+re
+random
+urlparse
+deque 
+BeautifulSoup
